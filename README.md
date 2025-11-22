@@ -7,6 +7,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/0004-median-of-two-sorted-arrays) |
+| [0075-sort-colors](https://github.com/enterayush/LeetcodeSolve/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,4 +35,12 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/enterayush/LeetcodeSolve/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/enterayush/LeetcodeSolve/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
