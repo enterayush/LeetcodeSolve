@@ -7,6 +7,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/enterayush/LeetcodeSolve/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/enterayush/LeetcodeSolve/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/enterayush/LeetcodeSolve/tree/master/0204-count-primes) |
 ## Binary Search
@@ -23,6 +24,7 @@ Leetcode Solutions
 | [0007-reverse-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/enterayush/LeetcodeSolve/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/enterayush/LeetcodeSolve/tree/master/0204-count-primes) |
 ## String
 |  |
