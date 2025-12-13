@@ -15,6 +15,7 @@ Leetcode Solutions
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/enterayush/LeetcodeSolve/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Leetcode Solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0020-valid-parentheses) |
+| [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
 ## Stack
 |  |
 | ------- |
@@ -51,6 +53,7 @@ Leetcode Solutions
 | [0013-roman-to-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/0013-roman-to-integer) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +65,7 @@ Leetcode Solutions
 | [0075-sort-colors](https://github.com/enterayush/LeetcodeSolve/tree/master/0075-sort-colors) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
 ## Enumeration
 |  |
 | ------- |
