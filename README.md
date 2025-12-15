@@ -22,6 +22,7 @@ Leetcode Solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/enterayush/LeetcodeSolve/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/enterayush/LeetcodeSolve/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,4 +102,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/enterayush/LeetcodeSolve/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/enterayush/LeetcodeSolve/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
