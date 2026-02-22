@@ -54,6 +54,7 @@ Leetcode Solutions
 | [0013-roman-to-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0020-valid-parentheses) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/enterayush/LeetcodeSolve/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3110-score-of-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3110-score-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
 ## Stack
 |  |
