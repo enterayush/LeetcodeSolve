@@ -21,6 +21,7 @@ Leetcode Solutions
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/enterayush/LeetcodeSolve/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/enterayush/LeetcodeSolve/tree/master/1920-build-array-from-permutation) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/enterayush/LeetcodeSolve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/enterayush/LeetcodeSolve/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -53,6 +54,7 @@ Leetcode Solutions
 | [1925-count-square-sum-triples](https://github.com/enterayush/LeetcodeSolve/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/enterayush/LeetcodeSolve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/enterayush/LeetcodeSolve/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/enterayush/LeetcodeSolve/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/enterayush/LeetcodeSolve/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## String
