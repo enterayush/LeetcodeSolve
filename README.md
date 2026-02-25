@@ -19,6 +19,7 @@ Leetcode Solutions
 | [0724-find-pivot-index](https://github.com/enterayush/LeetcodeSolve/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0867-transpose-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/enterayush/LeetcodeSolve/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/enterayush/LeetcodeSolve/tree/master/1920-build-array-from-permutation) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/enterayush/LeetcodeSolve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
@@ -113,6 +114,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/enterayush/LeetcodeSolve/tree/master/1920-build-array-from-permutation) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
 ## Dynamic Programming
 |  |
