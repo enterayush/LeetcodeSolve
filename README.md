@@ -15,6 +15,7 @@ Leetcode Solutions
 | [0204-count-primes](https://github.com/enterayush/LeetcodeSolve/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/enterayush/LeetcodeSolve/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/enterayush/LeetcodeSolve/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0867-transpose-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/enterayush/LeetcodeSolve/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/enterayush/LeetcodeSolve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
@@ -107,6 +108,7 @@ Leetcode Solutions
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0867-transpose-matrix) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
 ## Dynamic Programming
 |  |
@@ -131,4 +133,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/enterayush/LeetcodeSolve/tree/master/0724-find-pivot-index) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
