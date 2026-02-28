@@ -14,6 +14,7 @@ Leetcode Solutions
 | [0075-sort-colors](https://github.com/enterayush/LeetcodeSolve/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/enterayush/LeetcodeSolve/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/enterayush/LeetcodeSolve/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/enterayush/LeetcodeSolve/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/enterayush/LeetcodeSolve/tree/master/0724-find-pivot-index) |
@@ -34,6 +35,7 @@ Leetcode Solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/enterayush/LeetcodeSolve/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/enterayush/LeetcodeSolve/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
@@ -50,6 +52,7 @@ Leetcode Solutions
 | [0069-sqrtx](https://github.com/enterayush/LeetcodeSolve/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/enterayush/LeetcodeSolve/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/enterayush/LeetcodeSolve/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/enterayush/LeetcodeSolve/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/enterayush/LeetcodeSolve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -74,6 +77,7 @@ Leetcode Solutions
 | ------- |
 | [0001-two-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
@@ -88,6 +92,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/enterayush/LeetcodeSolve/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
@@ -146,4 +151,8 @@ Leetcode Solutions
 | ------- |
 | [0048-rotate-image](https://github.com/enterayush/LeetcodeSolve/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0867-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
