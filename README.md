@@ -13,6 +13,7 @@ Leetcode Solutions
 | [0066-plus-one](https://github.com/enterayush/LeetcodeSolve/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/enterayush/LeetcodeSolve/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/enterayush/LeetcodeSolve/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/enterayush/LeetcodeSolve/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
@@ -42,6 +43,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/enterayush/LeetcodeSolve/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +80,7 @@ Leetcode Solutions
 | ------- |
 | [0001-two-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/enterayush/LeetcodeSolve/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
@@ -93,6 +96,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/enterayush/LeetcodeSolve/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/enterayush/LeetcodeSolve/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
@@ -109,6 +113,7 @@ Leetcode Solutions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/enterayush/LeetcodeSolve/tree/master/0169-majority-element) |
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
 ## Brainteaser
 |  |
