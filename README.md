@@ -14,6 +14,7 @@ Leetcode Solutions
 | [0053-maximum-subarray](https://github.com/enterayush/LeetcodeSolve/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/enterayush/LeetcodeSolve/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/enterayush/LeetcodeSolve/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/enterayush/LeetcodeSolve/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/enterayush/LeetcodeSolve/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0189-rotate-array) |
@@ -86,6 +87,7 @@ Leetcode Solutions
 | ------- |
 | [0001-two-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/enterayush/LeetcodeSolve/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/enterayush/LeetcodeSolve/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
@@ -176,4 +178,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0503-next-greater-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/enterayush/LeetcodeSolve/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
