@@ -13,6 +13,7 @@ Leetcode Solutions
 | [0048-rotate-image](https://github.com/enterayush/LeetcodeSolve/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/enterayush/LeetcodeSolve/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/enterayush/LeetcodeSolve/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/enterayush/LeetcodeSolve/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/enterayush/LeetcodeSolve/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/enterayush/LeetcodeSolve/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0136-single-number) |
@@ -87,6 +88,7 @@ Leetcode Solutions
 | ------- |
 | [0001-two-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/enterayush/LeetcodeSolve/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/enterayush/LeetcodeSolve/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/enterayush/LeetcodeSolve/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
@@ -168,6 +170,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/enterayush/LeetcodeSolve/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/enterayush/LeetcodeSolve/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
