@@ -1,5 +1,5 @@
-class Solution{
-    List<Integer> generateRow(int row){
+class Solution{                               //OPTIMAL SOLUTION
+    List<Integer> generateRow(int row){      //generating each row and adding in temp 
         int res=1;
         List<Integer> temp = new ArrayList<>();
         temp.add(1);
@@ -19,12 +19,6 @@ class Solution{
         return res;
     }
 }
-
-
-
-
-
-
 
 // class Solution {                    BRUTE FORCE
 //     int ncr(int row, int col) {    to generate element by row coloum using ncr
