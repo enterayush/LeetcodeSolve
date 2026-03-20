@@ -8,6 +8,7 @@ Leetcode Solutions
 | ------- |
 | [0001-two-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/enterayush/LeetcodeSolve/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/enterayush/LeetcodeSolve/tree/master/0048-rotate-image) |
@@ -106,6 +107,7 @@ Leetcode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/enterayush/LeetcodeSolve/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/enterayush/LeetcodeSolve/tree/master/0075-sort-colors) |
@@ -115,6 +117,7 @@ Leetcode Solutions
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/enterayush/LeetcodeSolve/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/enterayush/LeetcodeSolve/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0229-majority-element-ii) |
