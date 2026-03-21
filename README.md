@@ -175,6 +175,7 @@ Leetcode Solutions
 ## Tree
 |  |
 | ------- |
+| [2236-root-equals-sum-of-children](https://github.com/enterayush/LeetcodeSolve/tree/master/2236-root-equals-sum-of-children) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
@@ -205,4 +206,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/enterayush/LeetcodeSolve/tree/master/0128-longest-consecutive-sequence) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/enterayush/LeetcodeSolve/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
