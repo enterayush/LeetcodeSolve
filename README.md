@@ -21,6 +21,7 @@ Leetcode Solutions
 | [0066-plus-one](https://github.com/enterayush/LeetcodeSolve/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/enterayush/LeetcodeSolve/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/enterayush/LeetcodeSolve/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/enterayush/LeetcodeSolve/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/enterayush/LeetcodeSolve/tree/master/0128-longest-consecutive-sequence) |
@@ -61,6 +62,7 @@ Leetcode Solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/enterayush/LeetcodeSolve/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/enterayush/LeetcodeSolve/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/enterayush/LeetcodeSolve/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/enterayush/LeetcodeSolve/tree/master/0493-reverse-pairs) |
