@@ -37,6 +37,7 @@ Leetcode Solutions
 | [0485-max-consecutive-ones](https://github.com/enterayush/LeetcodeSolve/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/enterayush/LeetcodeSolve/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/enterayush/LeetcodeSolve/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/enterayush/LeetcodeSolve/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/enterayush/LeetcodeSolve/tree/master/0724-find-pivot-index) |
@@ -71,6 +72,7 @@ Leetcode Solutions
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/enterayush/LeetcodeSolve/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/enterayush/LeetcodeSolve/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
