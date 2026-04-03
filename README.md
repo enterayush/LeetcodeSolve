@@ -47,6 +47,7 @@ Leetcode Solutions
 | [1046-last-stone-weight](https://github.com/enterayush/LeetcodeSolve/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/enterayush/LeetcodeSolve/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/enterayush/LeetcodeSolve/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1539-kth-missing-positive-number](https://github.com/enterayush/LeetcodeSolve/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/enterayush/LeetcodeSolve/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/enterayush/LeetcodeSolve/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/enterayush/LeetcodeSolve/tree/master/1920-build-array-from-permutation) |
@@ -79,6 +80,7 @@ Leetcode Solutions
 | [0540-single-element-in-a-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/enterayush/LeetcodeSolve/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/enterayush/LeetcodeSolve/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/enterayush/LeetcodeSolve/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
