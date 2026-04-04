@@ -99,6 +99,7 @@ Leetcode Solutions
 | [0069-sqrtx](https://github.com/enterayush/LeetcodeSolve/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/enterayush/LeetcodeSolve/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/enterayush/LeetcodeSolve/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/enterayush/LeetcodeSolve/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -238,6 +239,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/enterayush/LeetcodeSolve/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 ## Monotonic Stack
 |  |
@@ -288,6 +290,7 @@ Leetcode Solutions
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/enterayush/LeetcodeSolve/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
