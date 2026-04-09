@@ -108,6 +108,7 @@ Leetcode Solutions
 | [0509-fibonacci-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/enterayush/LeetcodeSolve/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/enterayush/LeetcodeSolve/tree/master/1925-count-square-sum-triples) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/enterayush/LeetcodeSolve/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/enterayush/LeetcodeSolve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/enterayush/LeetcodeSolve/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/enterayush/LeetcodeSolve/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -121,6 +122,7 @@ Leetcode Solutions
 | [0058-length-of-last-word](https://github.com/enterayush/LeetcodeSolve/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/enterayush/LeetcodeSolve/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/enterayush/LeetcodeSolve/tree/master/0412-fizz-buzz) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/enterayush/LeetcodeSolve/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/enterayush/LeetcodeSolve/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3110-score-of-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/enterayush/LeetcodeSolve/tree/master/3174-clear-digits) |
@@ -310,4 +312,9 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0410-split-array-largest-sum) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/enterayush/LeetcodeSolve/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Game Theory
+|  |
+| ------- |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/enterayush/LeetcodeSolve/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
