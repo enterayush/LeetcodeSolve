@@ -126,6 +126,7 @@ Leetcode Solutions
 | [0125-valid-palindrome](https://github.com/enterayush/LeetcodeSolve/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/enterayush/LeetcodeSolve/tree/master/0412-fizz-buzz) |
+| [1021-remove-outermost-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1021-remove-outermost-parentheses) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/enterayush/LeetcodeSolve/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/enterayush/LeetcodeSolve/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3110-score-of-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3110-score-of-a-string) |
@@ -136,6 +137,7 @@ Leetcode Solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0503-next-greater-element-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1021-remove-outermost-parentheses) |
 | [3174-clear-digits](https://github.com/enterayush/LeetcodeSolve/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
