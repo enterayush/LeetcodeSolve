@@ -98,6 +98,7 @@ Leetcode Solutions
 | ------- |
 | [0007-reverse-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/enterayush/LeetcodeSolve/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/enterayush/LeetcodeSolve/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/enterayush/LeetcodeSolve/tree/master/0066-plus-one) |
@@ -120,6 +121,7 @@ Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/enterayush/LeetcodeSolve/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/enterayush/LeetcodeSolve/tree/master/0058-length-of-last-word) |
@@ -145,6 +147,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/enterayush/LeetcodeSolve/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/enterayush/LeetcodeSolve/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/enterayush/LeetcodeSolve/tree/master/0128-longest-consecutive-sequence) |
