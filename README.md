@@ -107,6 +107,7 @@ Leetcode Solutions
 | [0204-count-primes](https://github.com/enterayush/LeetcodeSolve/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/enterayush/LeetcodeSolve/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/enterayush/LeetcodeSolve/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/enterayush/LeetcodeSolve/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/enterayush/LeetcodeSolve/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0509-fibonacci-number) |
@@ -206,6 +207,7 @@ Leetcode Solutions
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/enterayush/LeetcodeSolve/tree/master/0292-nim-game) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/enterayush/LeetcodeSolve/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Combinatorics
 |  |
@@ -330,5 +332,6 @@ Leetcode Solutions
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/enterayush/LeetcodeSolve/tree/master/0292-nim-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/enterayush/LeetcodeSolve/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
