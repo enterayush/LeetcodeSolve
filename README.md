@@ -108,6 +108,7 @@ Leetcode Solutions
 | [0231-power-of-two](https://github.com/enterayush/LeetcodeSolve/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/enterayush/LeetcodeSolve/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/enterayush/LeetcodeSolve/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/enterayush/LeetcodeSolve/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/enterayush/LeetcodeSolve/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0509-fibonacci-number) |
@@ -318,6 +319,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/enterayush/LeetcodeSolve/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/enterayush/LeetcodeSolve/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/enterayush/LeetcodeSolve/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0509-fibonacci-number) |
 ## Memoization
