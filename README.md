@@ -252,6 +252,7 @@ Leetcode Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/enterayush/LeetcodeSolve/tree/master/0547-number-of-provinces) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Prefix Sum
 |  |
@@ -283,6 +284,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/enterayush/LeetcodeSolve/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/enterayush/LeetcodeSolve/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -342,4 +344,12 @@ Leetcode Solutions
 | ------- |
 | [0292-nim-game](https://github.com/enterayush/LeetcodeSolve/tree/master/0292-nim-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/enterayush/LeetcodeSolve/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/enterayush/LeetcodeSolve/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/enterayush/LeetcodeSolve/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
