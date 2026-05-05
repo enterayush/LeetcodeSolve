@@ -17,14 +17,12 @@ class Solution {
             cnt++;
             temp = temp.next;
         }
-        if (cnt == n) return head.next;
+        if(cnt == n) return head.next;
         ListNode current = head;
         for(int i =1;i<cnt-n;i++){
             current = current.next;
         }
-        ListNode remove = current.next;
         current.next =current.next.next;
-        remove.next = null;
         return head;
     }
 }
