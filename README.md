@@ -139,6 +139,7 @@ Leetcode Solutions
 | [0022-generate-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/enterayush/LeetcodeSolve/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/enterayush/LeetcodeSolve/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/enterayush/LeetcodeSolve/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/enterayush/LeetcodeSolve/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1021-remove-outermost-parentheses) |
@@ -253,6 +254,7 @@ Leetcode Solutions
 | [0053-maximum-subarray](https://github.com/enterayush/LeetcodeSolve/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/enterayush/LeetcodeSolve/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/enterayush/LeetcodeSolve/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/enterayush/LeetcodeSolve/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0509-fibonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/enterayush/LeetcodeSolve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -391,4 +393,5 @@ Leetcode Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/enterayush/LeetcodeSolve/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/enterayush/LeetcodeSolve/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
