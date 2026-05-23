@@ -23,6 +23,7 @@ Leetcode Solutions
 | [0066-plus-one](https://github.com/enterayush/LeetcodeSolve/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/enterayush/LeetcodeSolve/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/enterayush/LeetcodeSolve/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/enterayush/LeetcodeSolve/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/enterayush/LeetcodeSolve/tree/master/0118-pascals-triangle) |
@@ -138,6 +139,7 @@ Leetcode Solutions
 | [0020-valid-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/enterayush/LeetcodeSolve/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/enterayush/LeetcodeSolve/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/enterayush/LeetcodeSolve/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/enterayush/LeetcodeSolve/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
@@ -273,6 +275,7 @@ Leetcode Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/enterayush/LeetcodeSolve/tree/master/0079-word-search) |
 | [0547-number-of-provinces](https://github.com/enterayush/LeetcodeSolve/tree/master/0547-number-of-provinces) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Prefix Sum
@@ -287,6 +290,7 @@ Leetcode Solutions
 | [0048-rotate-image](https://github.com/enterayush/LeetcodeSolve/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/enterayush/LeetcodeSolve/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/enterayush/LeetcodeSolve/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
@@ -393,5 +397,6 @@ Leetcode Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/enterayush/LeetcodeSolve/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/enterayush/LeetcodeSolve/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/enterayush/LeetcodeSolve/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
