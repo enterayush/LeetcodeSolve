@@ -60,6 +60,7 @@ Leetcode Solutions
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/enterayush/LeetcodeSolve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/enterayush/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/enterayush/LeetcodeSolve/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/enterayush/LeetcodeSolve/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -126,6 +127,7 @@ Leetcode Solutions
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/enterayush/LeetcodeSolve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/enterayush/LeetcodeSolve/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/enterayush/LeetcodeSolve/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/enterayush/LeetcodeSolve/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/enterayush/LeetcodeSolve/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3870-count-commas-in-range](https://github.com/enterayush/LeetcodeSolve/tree/master/3870-count-commas-in-range) |
