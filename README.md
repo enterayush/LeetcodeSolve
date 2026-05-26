@@ -147,6 +147,7 @@ Leetcode Solutions
 | [0131-palindrome-partitioning](https://github.com/enterayush/LeetcodeSolve/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/enterayush/LeetcodeSolve/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/enterayush/LeetcodeSolve/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/enterayush/LeetcodeSolve/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
