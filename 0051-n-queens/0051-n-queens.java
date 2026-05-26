@@ -8,7 +8,6 @@ class Solution {
             }
             ans.add(temp);
             return;
-
         }
         for(int row =0; row<n; row++){
             if(leftRow[row] == 0 && lowerDiagonal[row + col] == 0 &&
@@ -27,7 +26,6 @@ class Solution {
                 upperDiagonal[(n-1)+(col-row)] = 0;
             }
         }
-
     }
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> ans = new ArrayList<>();
