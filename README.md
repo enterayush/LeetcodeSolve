@@ -114,6 +114,7 @@ Leetcode Solutions
 | [0189-rotate-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/enterayush/LeetcodeSolve/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/enterayush/LeetcodeSolve/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/enterayush/LeetcodeSolve/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/enterayush/LeetcodeSolve/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/enterayush/LeetcodeSolve/tree/master/0326-power-of-three) |
@@ -230,6 +231,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/enterayush/LeetcodeSolve/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/enterayush/LeetcodeSolve/tree/master/0258-add-digits) |
 ## Counting
 |  |
 | ------- |
@@ -250,6 +252,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/enterayush/LeetcodeSolve/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/enterayush/LeetcodeSolve/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/enterayush/LeetcodeSolve/tree/master/1920-build-array-from-permutation) |
