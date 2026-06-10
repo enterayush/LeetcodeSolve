@@ -8,6 +8,7 @@ Leetcode Solutions
 | ------- |
 | [0001-two-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/enterayush/LeetcodeSolve/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/enterayush/LeetcodeSolve/tree/master/0027-remove-element) |
@@ -207,6 +208,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/enterayush/LeetcodeSolve/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/enterayush/LeetcodeSolve/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/enterayush/LeetcodeSolve/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -399,6 +401,7 @@ Leetcode Solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/enterayush/LeetcodeSolve/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/enterayush/LeetcodeSolve/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
