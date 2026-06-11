@@ -73,6 +73,7 @@ Leetcode Solutions
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
 | [3861-minimum-capacity-box](https://github.com/enterayush/LeetcodeSolve/tree/master/3861-minimum-capacity-box) |
+| [3925-concatenate-array-with-reverse](https://github.com/enterayush/LeetcodeSolve/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -280,6 +281,7 @@ Leetcode Solutions
 | [2149-rearrange-array-elements-by-sign](https://github.com/enterayush/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3174-clear-digits](https://github.com/enterayush/LeetcodeSolve/tree/master/3174-clear-digits) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
+| [3925-concatenate-array-with-reverse](https://github.com/enterayush/LeetcodeSolve/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
