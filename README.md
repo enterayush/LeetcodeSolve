@@ -72,6 +72,7 @@ Leetcode Solutions
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/enterayush/LeetcodeSolve/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
+| [3668-restore-finishing-order](https://github.com/enterayush/LeetcodeSolve/tree/master/3668-restore-finishing-order) |
 | [3861-minimum-capacity-box](https://github.com/enterayush/LeetcodeSolve/tree/master/3861-minimum-capacity-box) |
 | [3925-concatenate-array-with-reverse](https://github.com/enterayush/LeetcodeSolve/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -205,6 +206,7 @@ Leetcode Solutions
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
+| [3668-restore-finishing-order](https://github.com/enterayush/LeetcodeSolve/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
