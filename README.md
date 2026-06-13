@@ -144,6 +144,7 @@ Leetcode Solutions
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/enterayush/LeetcodeSolve/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3870-count-commas-in-range](https://github.com/enterayush/LeetcodeSolve/tree/master/3870-count-commas-in-range) |
+| [3945-digit-frequency-score](https://github.com/enterayush/LeetcodeSolve/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Leetcode Solutions
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
 | [3668-restore-finishing-order](https://github.com/enterayush/LeetcodeSolve/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/enterayush/LeetcodeSolve/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
