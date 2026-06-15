@@ -252,6 +252,7 @@ Leetcode Solutions
 | ------- |
 | [0204-count-primes](https://github.com/enterayush/LeetcodeSolve/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/enterayush/LeetcodeSolve/tree/master/1925-count-square-sum-triples) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/enterayush/LeetcodeSolve/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -301,6 +302,7 @@ Leetcode Solutions
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/enterayush/LeetcodeSolve/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/enterayush/LeetcodeSolve/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/enterayush/LeetcodeSolve/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Interactive
 |  |
 | ------- |
@@ -340,6 +342,7 @@ Leetcode Solutions
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/enterayush/LeetcodeSolve/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/enterayush/LeetcodeSolve/tree/master/1486-xor-operation-in-an-array) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/enterayush/LeetcodeSolve/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Monotonic Stack
 |  |
 | ------- |
