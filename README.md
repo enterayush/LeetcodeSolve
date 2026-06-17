@@ -174,6 +174,7 @@ Leetcode Solutions
 | [3121-count-the-number-of-special-characters-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/enterayush/LeetcodeSolve/tree/master/3174-clear-digits) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
+| [3884-first-matching-character-from-both-ends](https://github.com/enterayush/LeetcodeSolve/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
 | ------- |
@@ -231,6 +232,7 @@ Leetcode Solutions
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/enterayush/LeetcodeSolve/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/enterayush/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3884-first-matching-character-from-both-ends](https://github.com/enterayush/LeetcodeSolve/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
 | ------- |
