@@ -47,6 +47,7 @@ Leetcode Solutions
 | [0540-single-element-in-a-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/enterayush/LeetcodeSolve/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/enterayush/LeetcodeSolve/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/enterayush/LeetcodeSolve/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/enterayush/LeetcodeSolve/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
@@ -181,6 +182,7 @@ Leetcode Solutions
 | [0020-valid-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/enterayush/LeetcodeSolve/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/enterayush/LeetcodeSolve/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/enterayush/LeetcodeSolve/tree/master/3174-clear-digits) |
@@ -283,6 +285,7 @@ Leetcode Solutions
 | [0054-spiral-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/enterayush/LeetcodeSolve/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/enterayush/LeetcodeSolve/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/enterayush/LeetcodeSolve/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/enterayush/LeetcodeSolve/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/enterayush/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
