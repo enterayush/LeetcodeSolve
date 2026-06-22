@@ -63,6 +63,7 @@ Leetcode Solutions
 | [1920-build-array-from-permutation](https://github.com/enterayush/LeetcodeSolve/tree/master/1920-build-array-from-permutation) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/enterayush/LeetcodeSolve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/enterayush/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/enterayush/LeetcodeSolve/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/enterayush/LeetcodeSolve/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/enterayush/LeetcodeSolve/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/enterayush/LeetcodeSolve/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -138,6 +139,7 @@ Leetcode Solutions
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/enterayush/LeetcodeSolve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/enterayush/LeetcodeSolve/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/enterayush/LeetcodeSolve/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/enterayush/LeetcodeSolve/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/enterayush/LeetcodeSolve/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/enterayush/LeetcodeSolve/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/enterayush/LeetcodeSolve/tree/master/3024-type-of-triangle) |
