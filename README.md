@@ -446,6 +446,7 @@ Leetcode Solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/enterayush/LeetcodeSolve/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/enterayush/LeetcodeSolve/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/enterayush/LeetcodeSolve/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/enterayush/LeetcodeSolve/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/enterayush/LeetcodeSolve/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/enterayush/LeetcodeSolve/tree/master/0237-delete-node-in-a-linked-list) |
