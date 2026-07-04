@@ -79,6 +79,7 @@ Leetcode Solutions
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
 | [3668-restore-finishing-order](https://github.com/enterayush/LeetcodeSolve/tree/master/3668-restore-finishing-order) |
 | [3861-minimum-capacity-box](https://github.com/enterayush/LeetcodeSolve/tree/master/3861-minimum-capacity-box) |
+| [3875-construct-uniform-parity-array-i](https://github.com/enterayush/LeetcodeSolve/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/enterayush/LeetcodeSolve/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -151,6 +152,7 @@ Leetcode Solutions
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/enterayush/LeetcodeSolve/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3870-count-commas-in-range](https://github.com/enterayush/LeetcodeSolve/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/enterayush/LeetcodeSolve/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/enterayush/LeetcodeSolve/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
