@@ -80,6 +80,7 @@ Leetcode Solutions
 | [3668-restore-finishing-order](https://github.com/enterayush/LeetcodeSolve/tree/master/3668-restore-finishing-order) |
 | [3861-minimum-capacity-box](https://github.com/enterayush/LeetcodeSolve/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/enterayush/LeetcodeSolve/tree/master/3875-construct-uniform-parity-array-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/enterayush/LeetcodeSolve/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3925-concatenate-array-with-reverse](https://github.com/enterayush/LeetcodeSolve/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -266,6 +267,7 @@ Leetcode Solutions
 | [0204-count-primes](https://github.com/enterayush/LeetcodeSolve/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/enterayush/LeetcodeSolve/tree/master/1925-count-square-sum-triples) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/enterayush/LeetcodeSolve/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/enterayush/LeetcodeSolve/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/enterayush/LeetcodeSolve/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Number Theory
 |  |
