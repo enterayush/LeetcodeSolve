@@ -79,6 +79,7 @@ Leetcode Solutions
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
 | [3668-restore-finishing-order](https://github.com/enterayush/LeetcodeSolve/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/enterayush/LeetcodeSolve/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3861-minimum-capacity-box](https://github.com/enterayush/LeetcodeSolve/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/enterayush/LeetcodeSolve/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/enterayush/LeetcodeSolve/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -222,6 +223,7 @@ Leetcode Solutions
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
 | [3668-restore-finishing-order](https://github.com/enterayush/LeetcodeSolve/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/enterayush/LeetcodeSolve/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/enterayush/LeetcodeSolve/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
