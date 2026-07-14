@@ -185,6 +185,7 @@ Leetcode Solutions
 | [3110-score-of-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3110-score-of-a-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/enterayush/LeetcodeSolve/tree/master/3174-clear-digits) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
 | [3884-first-matching-character-from-both-ends](https://github.com/enterayush/LeetcodeSolve/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
@@ -219,6 +220,7 @@ Leetcode Solutions
 | [1832-check-if-the-sentence-is-pangram](https://github.com/enterayush/LeetcodeSolve/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/enterayush/LeetcodeSolve/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
@@ -285,6 +287,7 @@ Leetcode Solutions
 | [0229-majority-element-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/enterayush/LeetcodeSolve/tree/master/1748-sum-of-unique-elements) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
 ## Brainteaser
 |  |
