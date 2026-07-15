@@ -126,6 +126,7 @@ Leetcode Solutions
 | [0066-plus-one](https://github.com/enterayush/LeetcodeSolve/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/enterayush/LeetcodeSolve/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/enterayush/LeetcodeSolve/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/enterayush/LeetcodeSolve/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/enterayush/LeetcodeSolve/tree/master/0231-power-of-two) |
@@ -173,6 +174,7 @@ Leetcode Solutions
 | [0079-word-search](https://github.com/enterayush/LeetcodeSolve/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/enterayush/LeetcodeSolve/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/enterayush/LeetcodeSolve/tree/master/0131-palindrome-partitioning) |
+| [0171-excel-sheet-column-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/enterayush/LeetcodeSolve/tree/master/0412-fizz-buzz) |
