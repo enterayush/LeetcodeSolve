@@ -52,6 +52,7 @@ Leetcode Solutions
 | [0724-find-pivot-index](https://github.com/enterayush/LeetcodeSolve/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
+| [0930-binary-subarrays-with-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/enterayush/LeetcodeSolve/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/enterayush/LeetcodeSolve/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/enterayush/LeetcodeSolve/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -219,6 +220,7 @@ Leetcode Solutions
 | [0387-first-unique-character-in-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/enterayush/LeetcodeSolve/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/enterayush/LeetcodeSolve/tree/master/0575-distribute-candies) |
+| [0930-binary-subarrays-with-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0930-binary-subarrays-with-sum) |
 | [1748-sum-of-unique-elements](https://github.com/enterayush/LeetcodeSolve/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/enterayush/LeetcodeSolve/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/enterayush/LeetcodeSolve/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -351,6 +353,7 @@ Leetcode Solutions
 | [0410-split-array-largest-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/enterayush/LeetcodeSolve/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/enterayush/LeetcodeSolve/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0930-binary-subarrays-with-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -398,6 +401,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/enterayush/LeetcodeSolve/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0930-binary-subarrays-with-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0930-binary-subarrays-with-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/enterayush/LeetcodeSolve/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
