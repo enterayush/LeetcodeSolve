@@ -42,6 +42,7 @@ Leetcode Solutions
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/enterayush/LeetcodeSolve/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/enterayush/LeetcodeSolve/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/enterayush/LeetcodeSolve/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/enterayush/LeetcodeSolve/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0503-next-greater-element-ii) |
@@ -271,6 +272,7 @@ Leetcode Solutions
 | [0229-majority-element-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/enterayush/LeetcodeSolve/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
 | [3024-type-of-triangle](https://github.com/enterayush/LeetcodeSolve/tree/master/3024-type-of-triangle) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
@@ -333,6 +335,7 @@ Leetcode Solutions
 | [0118-pascals-triangle](https://github.com/enterayush/LeetcodeSolve/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/enterayush/LeetcodeSolve/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/enterayush/LeetcodeSolve/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0509-fibonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/enterayush/LeetcodeSolve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/enterayush/LeetcodeSolve/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -451,6 +454,7 @@ Leetcode Solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/enterayush/LeetcodeSolve/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/enterayush/LeetcodeSolve/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/enterayush/LeetcodeSolve/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Game Theory
