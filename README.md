@@ -16,6 +16,7 @@ Leetcode Solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/enterayush/LeetcodeSolve/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/enterayush/LeetcodeSolve/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/enterayush/LeetcodeSolve/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/enterayush/LeetcodeSolve/tree/master/0053-maximum-subarray) |
@@ -336,6 +337,7 @@ Leetcode Solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/enterayush/LeetcodeSolve/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/enterayush/LeetcodeSolve/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/enterayush/LeetcodeSolve/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/enterayush/LeetcodeSolve/tree/master/0118-pascals-triangle) |
@@ -460,6 +462,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/enterayush/LeetcodeSolve/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/enterayush/LeetcodeSolve/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0678-valid-parenthesis-string) |
