@@ -78,6 +78,7 @@ Leetcode Solutions
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/enterayush/LeetcodeSolve/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/enterayush/LeetcodeSolve/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/enterayush/LeetcodeSolve/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -240,6 +241,7 @@ Leetcode Solutions
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/enterayush/LeetcodeSolve/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
