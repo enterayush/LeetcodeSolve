@@ -209,6 +209,7 @@ Leetcode Solutions
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/enterayush/LeetcodeSolve/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/enterayush/LeetcodeSolve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3884-first-matching-character-from-both-ends](https://github.com/enterayush/LeetcodeSolve/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
@@ -252,6 +253,7 @@ Leetcode Solutions
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
 | [3668-restore-finishing-order](https://github.com/enterayush/LeetcodeSolve/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/enterayush/LeetcodeSolve/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/enterayush/LeetcodeSolve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/enterayush/LeetcodeSolve/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/enterayush/LeetcodeSolve/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
@@ -304,6 +306,7 @@ Leetcode Solutions
 | [0204-count-primes](https://github.com/enterayush/LeetcodeSolve/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/enterayush/LeetcodeSolve/tree/master/1925-count-square-sum-triples) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/enterayush/LeetcodeSolve/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/enterayush/LeetcodeSolve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/enterayush/LeetcodeSolve/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/enterayush/LeetcodeSolve/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Number Theory
@@ -321,6 +324,7 @@ Leetcode Solutions
 | [1748-sum-of-unique-elements](https://github.com/enterayush/LeetcodeSolve/tree/master/1748-sum-of-unique-elements) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/enterayush/LeetcodeSolve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Brainteaser
 |  |
 | ------- |
@@ -484,6 +488,7 @@ Leetcode Solutions
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
 | [1927-sum-game](https://github.com/enterayush/LeetcodeSolve/tree/master/1927-sum-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/enterayush/LeetcodeSolve/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/enterayush/LeetcodeSolve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
