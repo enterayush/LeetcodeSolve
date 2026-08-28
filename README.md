@@ -58,6 +58,7 @@ Leetcode Solutions
 | [0867-transpose-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0931-minimum-falling-path-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/enterayush/LeetcodeSolve/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/enterayush/LeetcodeSolve/tree/master/1046-last-stone-weight) |
 | [1266-minimum-time-visiting-all-points](https://github.com/enterayush/LeetcodeSolve/tree/master/1266-minimum-time-visiting-all-points) |
@@ -366,6 +367,7 @@ Leetcode Solutions
 | [0509-fibonacci-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/enterayush/LeetcodeSolve/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0931-minimum-falling-path-sum) |
 | [1510-stone-game-iv](https://github.com/enterayush/LeetcodeSolve/tree/master/1510-stone-game-iv) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/enterayush/LeetcodeSolve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/enterayush/LeetcodeSolve/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -404,6 +406,7 @@ Leetcode Solutions
 | [0079-word-search](https://github.com/enterayush/LeetcodeSolve/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0867-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0931-minimum-falling-path-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
