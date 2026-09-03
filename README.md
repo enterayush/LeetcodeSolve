@@ -382,6 +382,7 @@ Leetcode Solutions
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0145-binary-tree-postorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/enterayush/LeetcodeSolve/tree/master/2236-root-equals-sum-of-children) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -433,6 +434,7 @@ Leetcode Solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0145-binary-tree-postorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/enterayush/LeetcodeSolve/tree/master/2236-root-equals-sum-of-children) |
 ## Heap (Priority Queue)
@@ -509,6 +511,7 @@ Leetcode Solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0102-binary-tree-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/enterayush/LeetcodeSolve/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
