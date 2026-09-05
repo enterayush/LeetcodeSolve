@@ -384,6 +384,7 @@ Leetcode Solutions
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0145-binary-tree-postorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/enterayush/LeetcodeSolve/tree/master/2236-root-equals-sum-of-children) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -392,6 +393,7 @@ Leetcode Solutions
 | ------- |
 | [0079-word-search](https://github.com/enterayush/LeetcodeSolve/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/enterayush/LeetcodeSolve/tree/master/0547-number-of-provinces) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -438,6 +440,7 @@ Leetcode Solutions
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0145-binary-tree-postorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/enterayush/LeetcodeSolve/tree/master/2236-root-equals-sum-of-children) |
 ## Heap (Priority Queue)
