@@ -386,6 +386,7 @@ Leetcode Solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0543-diameter-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/enterayush/LeetcodeSolve/tree/master/2236-root-equals-sum-of-children) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -395,6 +396,7 @@ Leetcode Solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/enterayush/LeetcodeSolve/tree/master/0547-number-of-provinces) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Prefix Sum
@@ -442,6 +444,7 @@ Leetcode Solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0543-diameter-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/enterayush/LeetcodeSolve/tree/master/2236-root-equals-sum-of-children) |
 ## Heap (Priority Queue)
 |  |
@@ -576,4 +579,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/enterayush/LeetcodeSolve/tree/master/1510-stone-game-iv) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
