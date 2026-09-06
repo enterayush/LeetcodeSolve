@@ -362,6 +362,7 @@ Leetcode Solutions
 | [0064-minimum-path-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/enterayush/LeetcodeSolve/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/enterayush/LeetcodeSolve/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/enterayush/LeetcodeSolve/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/enterayush/LeetcodeSolve/tree/master/0435-non-overlapping-intervals) |
@@ -385,6 +386,7 @@ Leetcode Solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0543-diameter-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/enterayush/LeetcodeSolve/tree/master/2236-root-equals-sum-of-children) |
@@ -395,6 +397,7 @@ Leetcode Solutions
 | [0079-word-search](https://github.com/enterayush/LeetcodeSolve/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/enterayush/LeetcodeSolve/tree/master/0547-number-of-provinces) |
@@ -443,6 +446,7 @@ Leetcode Solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0543-diameter-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/enterayush/LeetcodeSolve/tree/master/2236-root-equals-sum-of-children) |
@@ -582,5 +586,6 @@ Leetcode Solutions
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
