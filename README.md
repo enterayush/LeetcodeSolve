@@ -83,6 +83,7 @@ Leetcode Solutions
 | [3232-find-if-digit-game-can-be-won](https://github.com/enterayush/LeetcodeSolve/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/enterayush/LeetcodeSolve/tree/master/3483-unique-3-digit-even-numbers) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/enterayush/LeetcodeSolve/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -255,6 +256,7 @@ Leetcode Solutions
 | [3121-count-the-number-of-special-characters-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/enterayush/LeetcodeSolve/tree/master/3483-unique-3-digit-even-numbers) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
@@ -313,6 +315,7 @@ Leetcode Solutions
 | [0204-count-primes](https://github.com/enterayush/LeetcodeSolve/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/enterayush/LeetcodeSolve/tree/master/1925-count-square-sum-triples) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/enterayush/LeetcodeSolve/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/enterayush/LeetcodeSolve/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/enterayush/LeetcodeSolve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/enterayush/LeetcodeSolve/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/enterayush/LeetcodeSolve/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -501,6 +504,7 @@ Leetcode Solutions
 | [0342-power-of-four](https://github.com/enterayush/LeetcodeSolve/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/enterayush/LeetcodeSolve/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/enterayush/LeetcodeSolve/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
