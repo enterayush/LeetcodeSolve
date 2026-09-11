@@ -194,6 +194,7 @@ Leetcode Solutions
 | [0131-palindrome-partitioning](https://github.com/enterayush/LeetcodeSolve/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/enterayush/LeetcodeSolve/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/enterayush/LeetcodeSolve/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/enterayush/LeetcodeSolve/tree/master/0412-fizz-buzz) |
@@ -241,6 +242,7 @@ Leetcode Solutions
 | [0229-majority-element-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/enterayush/LeetcodeSolve/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/enterayush/LeetcodeSolve/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/enterayush/LeetcodeSolve/tree/master/0560-subarray-sum-equals-k) |
