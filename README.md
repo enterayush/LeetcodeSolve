@@ -194,6 +194,7 @@ Leetcode Solutions
 | [0125-valid-palindrome](https://github.com/enterayush/LeetcodeSolve/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/enterayush/LeetcodeSolve/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/enterayush/LeetcodeSolve/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/enterayush/LeetcodeSolve/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0387-first-unique-character-in-a-string) |
@@ -240,6 +241,7 @@ Leetcode Solutions
 | [0128-longest-consecutive-sequence](https://github.com/enterayush/LeetcodeSolve/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/enterayush/LeetcodeSolve/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/enterayush/LeetcodeSolve/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/enterayush/LeetcodeSolve/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
@@ -432,6 +434,7 @@ Leetcode Solutions
 | ------- |
 | [0078-subsets](https://github.com/enterayush/LeetcodeSolve/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/enterayush/LeetcodeSolve/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/enterayush/LeetcodeSolve/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/enterayush/LeetcodeSolve/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
@@ -471,6 +474,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/enterayush/LeetcodeSolve/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/enterayush/LeetcodeSolve/tree/master/0187-repeated-dna-sequences) |
 | [0930-binary-subarrays-with-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0930-binary-subarrays-with-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/enterayush/LeetcodeSolve/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
@@ -597,4 +601,20 @@ Leetcode Solutions
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0543-diameter-of-binary-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/enterayush/LeetcodeSolve/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/enterayush/LeetcodeSolve/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/enterayush/LeetcodeSolve/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/enterayush/LeetcodeSolve/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
