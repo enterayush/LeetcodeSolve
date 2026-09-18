@@ -44,6 +44,7 @@ Leetcode Solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/enterayush/LeetcodeSolve/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/enterayush/LeetcodeSolve/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/enterayush/LeetcodeSolve/tree/master/0485-max-consecutive-ones) |
@@ -112,6 +113,7 @@ Leetcode Solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/enterayush/LeetcodeSolve/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/enterayush/LeetcodeSolve/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0540-single-element-in-a-sorted-array) |
@@ -246,6 +248,7 @@ Leetcode Solutions
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/enterayush/LeetcodeSolve/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/enterayush/LeetcodeSolve/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/enterayush/LeetcodeSolve/tree/master/0560-subarray-sum-equals-k) |
@@ -285,6 +288,7 @@ Leetcode Solutions
 | [0189-rotate-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/enterayush/LeetcodeSolve/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/enterayush/LeetcodeSolve/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/enterayush/LeetcodeSolve/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/enterayush/LeetcodeSolve/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -301,6 +305,7 @@ Leetcode Solutions
 | [0229-majority-element-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/enterayush/LeetcodeSolve/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
