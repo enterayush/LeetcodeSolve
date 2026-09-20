@@ -215,6 +215,7 @@ Leetcode Solutions
 | [3121-count-the-number-of-special-characters-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/enterayush/LeetcodeSolve/tree/master/3174-clear-digits) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/enterayush/LeetcodeSolve/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/enterayush/LeetcodeSolve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -364,6 +365,7 @@ Leetcode Solutions
 | [2149-rearrange-array-elements-by-sign](https://github.com/enterayush/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3174-clear-digits](https://github.com/enterayush/LeetcodeSolve/tree/master/3174-clear-digits) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
+| [3498-reverse-degree-of-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/enterayush/LeetcodeSolve/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
