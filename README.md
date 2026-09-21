@@ -200,6 +200,7 @@ Leetcode Solutions
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/enterayush/LeetcodeSolve/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/enterayush/LeetcodeSolve/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/enterayush/LeetcodeSolve/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/enterayush/LeetcodeSolve/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0678-valid-parenthesis-string) |
@@ -251,6 +252,7 @@ Leetcode Solutions
 | [0290-word-pattern](https://github.com/enterayush/LeetcodeSolve/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/enterayush/LeetcodeSolve/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/enterayush/LeetcodeSolve/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/enterayush/LeetcodeSolve/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/enterayush/LeetcodeSolve/tree/master/0575-distribute-candies) |
@@ -307,6 +309,7 @@ Leetcode Solutions
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/enterayush/LeetcodeSolve/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/enterayush/LeetcodeSolve/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -446,6 +449,7 @@ Leetcode Solutions
 | [0231-power-of-two](https://github.com/enterayush/LeetcodeSolve/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/enterayush/LeetcodeSolve/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/enterayush/LeetcodeSolve/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/enterayush/LeetcodeSolve/tree/master/1486-xor-operation-in-an-array) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/enterayush/LeetcodeSolve/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Monotonic Stack
