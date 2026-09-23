@@ -44,6 +44,7 @@ Leetcode Solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/enterayush/LeetcodeSolve/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/enterayush/LeetcodeSolve/tree/master/0435-non-overlapping-intervals) |
@@ -113,6 +114,7 @@ Leetcode Solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/enterayush/LeetcodeSolve/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/enterayush/LeetcodeSolve/tree/master/0493-reverse-pairs) |
@@ -250,6 +252,7 @@ Leetcode Solutions
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/enterayush/LeetcodeSolve/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/enterayush/LeetcodeSolve/tree/master/0389-find-the-difference) |
@@ -291,6 +294,7 @@ Leetcode Solutions
 | [0189-rotate-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/enterayush/LeetcodeSolve/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/enterayush/LeetcodeSolve/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/enterayush/LeetcodeSolve/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
@@ -308,6 +312,7 @@ Leetcode Solutions
 | [0229-majority-element-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/enterayush/LeetcodeSolve/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/enterayush/LeetcodeSolve/tree/master/0435-non-overlapping-intervals) |
