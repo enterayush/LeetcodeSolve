@@ -619,6 +619,7 @@ Leetcode Solutions
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Minimax
