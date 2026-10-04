@@ -54,6 +54,7 @@ Leetcode Solutions
 | [0435-non-overlapping-intervals](https://github.com/enterayush/LeetcodeSolve/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/enterayush/LeetcodeSolve/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/enterayush/LeetcodeSolve/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/enterayush/LeetcodeSolve/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/enterayush/LeetcodeSolve/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0540-single-element-in-a-sorted-array) |
@@ -161,6 +162,7 @@ Leetcode Solutions
 | [0326-power-of-three](https://github.com/enterayush/LeetcodeSolve/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/enterayush/LeetcodeSolve/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/enterayush/LeetcodeSolve/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/enterayush/LeetcodeSolve/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0509-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/enterayush/LeetcodeSolve/tree/master/1266-minimum-time-visiting-all-points) |
 | [1486-xor-operation-in-an-array](https://github.com/enterayush/LeetcodeSolve/tree/master/1486-xor-operation-in-an-array) |
@@ -408,6 +410,7 @@ Leetcode Solutions
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/enterayush/LeetcodeSolve/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0410-split-array-largest-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/enterayush/LeetcodeSolve/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/enterayush/LeetcodeSolve/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/enterayush/LeetcodeSolve/tree/master/0746-min-cost-climbing-stairs) |
@@ -542,6 +545,7 @@ Leetcode Solutions
 | [0234-palindrome-linked-list](https://github.com/enterayush/LeetcodeSolve/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/enterayush/LeetcodeSolve/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/enterayush/LeetcodeSolve/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/enterayush/LeetcodeSolve/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/enterayush/LeetcodeSolve/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/enterayush/LeetcodeSolve/tree/master/3483-unique-3-digit-even-numbers) |
@@ -574,6 +578,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/enterayush/LeetcodeSolve/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/enterayush/LeetcodeSolve/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/enterayush/LeetcodeSolve/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/enterayush/LeetcodeSolve/tree/master/1927-sum-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/enterayush/LeetcodeSolve/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -630,6 +635,7 @@ Leetcode Solutions
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/enterayush/LeetcodeSolve/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/enterayush/LeetcodeSolve/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
@@ -642,6 +648,7 @@ Leetcode Solutions
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/enterayush/LeetcodeSolve/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/enterayush/LeetcodeSolve/tree/master/1510-stone-game-iv) |
 ## DP on Trees
 |  |
