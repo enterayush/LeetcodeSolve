@@ -218,6 +218,7 @@ Leetcode Solutions
 | [0412-fizz-buzz](https://github.com/enterayush/LeetcodeSolve/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/enterayush/LeetcodeSolve/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/enterayush/LeetcodeSolve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -247,6 +248,7 @@ Leetcode Solutions
 | [0503-next-greater-element-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/enterayush/LeetcodeSolve/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/enterayush/LeetcodeSolve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -635,6 +637,7 @@ Leetcode Solutions
 | [0022-generate-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Minimax
 |  |
