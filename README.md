@@ -73,6 +73,7 @@ Leetcode Solutions
 | [1046-last-stone-weight](https://github.com/enterayush/LeetcodeSolve/tree/master/1046-last-stone-weight) |
 | [1266-minimum-time-visiting-all-points](https://github.com/enterayush/LeetcodeSolve/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/enterayush/LeetcodeSolve/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/enterayush/LeetcodeSolve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/enterayush/LeetcodeSolve/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1470-shuffle-the-array](https://github.com/enterayush/LeetcodeSolve/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/enterayush/LeetcodeSolve/tree/master/1539-kth-missing-positive-number) |
@@ -459,6 +460,7 @@ Leetcode Solutions
 | [0560-subarray-sum-equals-k](https://github.com/enterayush/LeetcodeSolve/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/enterayush/LeetcodeSolve/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0930-binary-subarrays-with-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/enterayush/LeetcodeSolve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
 | ------- |
@@ -520,6 +522,7 @@ Leetcode Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/enterayush/LeetcodeSolve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/enterayush/LeetcodeSolve/tree/master/0187-repeated-dna-sequences) |
 | [0930-binary-subarrays-with-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0930-binary-subarrays-with-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/enterayush/LeetcodeSolve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/enterayush/LeetcodeSolve/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
