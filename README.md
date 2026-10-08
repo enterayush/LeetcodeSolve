@@ -220,6 +220,7 @@ Leetcode Solutions
 | [0678-valid-parenthesis-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/enterayush/LeetcodeSolve/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/enterayush/LeetcodeSolve/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/enterayush/LeetcodeSolve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -250,6 +251,7 @@ Leetcode Solutions
 | [0678-valid-parenthesis-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/enterayush/LeetcodeSolve/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/enterayush/LeetcodeSolve/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/enterayush/LeetcodeSolve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -578,6 +580,7 @@ Leetcode Solutions
 | [0605-can-place-flowers](https://github.com/enterayush/LeetcodeSolve/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/enterayush/LeetcodeSolve/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/enterayush/LeetcodeSolve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/enterayush/LeetcodeSolve/tree/master/1927-sum-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/enterayush/LeetcodeSolve/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -641,6 +644,7 @@ Leetcode Solutions
 | [0032-longest-valid-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/enterayush/LeetcodeSolve/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Minimax
 |  |
