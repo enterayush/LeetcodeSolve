@@ -212,6 +212,7 @@ Leetcode Solutions
 | [0187-repeated-dna-sequences](https://github.com/enterayush/LeetcodeSolve/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/enterayush/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/enterayush/LeetcodeSolve/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/enterayush/LeetcodeSolve/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/enterayush/LeetcodeSolve/tree/master/0389-find-the-difference) |
@@ -598,6 +599,7 @@ Leetcode Solutions
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/enterayush/LeetcodeSolve/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -623,6 +625,7 @@ Leetcode Solutions
 | [0078-subsets](https://github.com/enterayush/LeetcodeSolve/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/enterayush/LeetcodeSolve/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/enterayush/LeetcodeSolve/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0301-remove-invalid-parentheses) |
 ## String Matching
 |  |
 | ------- |
