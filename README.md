@@ -244,6 +244,7 @@ Leetcode Solutions
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/enterayush/LeetcodeSolve/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/enterayush/LeetcodeSolve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/enterayush/LeetcodeSolve/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
