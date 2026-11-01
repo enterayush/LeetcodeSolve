@@ -104,6 +104,7 @@ Leetcode Solutions
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/enterayush/LeetcodeSolve/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/enterayush/LeetcodeSolve/tree/master/3665-twisted-mirror-path-count) |
 | [3668-restore-finishing-order](https://github.com/enterayush/LeetcodeSolve/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/enterayush/LeetcodeSolve/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/enterayush/LeetcodeSolve/tree/master/3731-find-missing-elements) |
@@ -438,6 +439,7 @@ Leetcode Solutions
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/enterayush/LeetcodeSolve/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/enterayush/LeetcodeSolve/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3665-twisted-mirror-path-count](https://github.com/enterayush/LeetcodeSolve/tree/master/3665-twisted-mirror-path-count) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/enterayush/LeetcodeSolve/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Interactive
 |  |
@@ -484,6 +486,7 @@ Leetcode Solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0931-minimum-falling-path-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/enterayush/LeetcodeSolve/tree/master/3665-twisted-mirror-path-count) |
 ## Bit Manipulation
 |  |
 | ------- |
