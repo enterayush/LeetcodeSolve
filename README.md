@@ -53,6 +53,7 @@ Leetcode Solutions
 | [0410-split-array-largest-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/enterayush/LeetcodeSolve/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/enterayush/LeetcodeSolve/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/enterayush/LeetcodeSolve/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/enterayush/LeetcodeSolve/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/enterayush/LeetcodeSolve/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/enterayush/LeetcodeSolve/tree/master/0493-reverse-pairs) |
@@ -168,6 +169,7 @@ Leetcode Solutions
 | [0326-power-of-three](https://github.com/enterayush/LeetcodeSolve/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/enterayush/LeetcodeSolve/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/enterayush/LeetcodeSolve/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/enterayush/LeetcodeSolve/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/enterayush/LeetcodeSolve/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0509-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/enterayush/LeetcodeSolve/tree/master/1266-minimum-time-visiting-all-points) |
