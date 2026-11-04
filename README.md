@@ -99,6 +99,7 @@ Leetcode Solutions
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/enterayush/LeetcodeSolve/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/enterayush/LeetcodeSolve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/enterayush/LeetcodeSolve/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -196,6 +197,7 @@ Leetcode Solutions
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/enterayush/LeetcodeSolve/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/enterayush/LeetcodeSolve/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/enterayush/LeetcodeSolve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/enterayush/LeetcodeSolve/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/enterayush/LeetcodeSolve/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/enterayush/LeetcodeSolve/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -306,6 +308,7 @@ Leetcode Solutions
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/enterayush/LeetcodeSolve/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/enterayush/LeetcodeSolve/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/enterayush/LeetcodeSolve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3531-count-covered-buildings](https://github.com/enterayush/LeetcodeSolve/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/enterayush/LeetcodeSolve/tree/master/3606-coupon-code-validator) |
@@ -444,6 +447,7 @@ Leetcode Solutions
 | [1510-stone-game-iv](https://github.com/enterayush/LeetcodeSolve/tree/master/1510-stone-game-iv) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/enterayush/LeetcodeSolve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/enterayush/LeetcodeSolve/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/enterayush/LeetcodeSolve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/enterayush/LeetcodeSolve/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3665-twisted-mirror-path-count](https://github.com/enterayush/LeetcodeSolve/tree/master/3665-twisted-mirror-path-count) |
@@ -534,6 +538,7 @@ Leetcode Solutions
 | ------- |
 | [1046-last-stone-weight](https://github.com/enterayush/LeetcodeSolve/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/enterayush/LeetcodeSolve/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/enterayush/LeetcodeSolve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Queue
 |  |
 | ------- |
@@ -547,6 +552,7 @@ Leetcode Solutions
 | [0930-binary-subarrays-with-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/enterayush/LeetcodeSolve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/enterayush/LeetcodeSolve/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/enterayush/LeetcodeSolve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Ordered Set
 |  |
 | ------- |
