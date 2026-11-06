@@ -75,6 +75,7 @@ Leetcode Solutions
 | [1046-last-stone-weight](https://github.com/enterayush/LeetcodeSolve/tree/master/1046-last-stone-weight) |
 | [1266-minimum-time-visiting-all-points](https://github.com/enterayush/LeetcodeSolve/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/enterayush/LeetcodeSolve/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/enterayush/LeetcodeSolve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/enterayush/LeetcodeSolve/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1470-shuffle-the-array](https://github.com/enterayush/LeetcodeSolve/tree/master/1470-shuffle-the-array) |
@@ -138,6 +139,7 @@ Leetcode Solutions
 | [0540-single-element-in-a-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/enterayush/LeetcodeSolve/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/enterayush/LeetcodeSolve/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/enterayush/LeetcodeSolve/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/enterayush/LeetcodeSolve/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
@@ -339,6 +341,7 @@ Leetcode Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/enterayush/LeetcodeSolve/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/enterayush/LeetcodeSolve/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/enterayush/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3884-first-matching-character-from-both-ends](https://github.com/enterayush/LeetcodeSolve/tree/master/3884-first-matching-character-from-both-ends) |
@@ -361,6 +364,7 @@ Leetcode Solutions
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/enterayush/LeetcodeSolve/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/enterayush/LeetcodeSolve/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/enterayush/LeetcodeSolve/tree/master/3024-type-of-triangle) |
