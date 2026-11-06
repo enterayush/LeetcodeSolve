@@ -90,6 +90,7 @@ Leetcode Solutions
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/enterayush/LeetcodeSolve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/enterayush/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/enterayush/LeetcodeSolve/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2747-count-zero-request-servers](https://github.com/enterayush/LeetcodeSolve/tree/master/2747-count-zero-request-servers) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/enterayush/LeetcodeSolve/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/enterayush/LeetcodeSolve/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -303,6 +304,7 @@ Leetcode Solutions
 | [0930-binary-subarrays-with-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0930-binary-subarrays-with-sum) |
 | [1748-sum-of-unique-elements](https://github.com/enterayush/LeetcodeSolve/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/enterayush/LeetcodeSolve/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2747-count-zero-request-servers](https://github.com/enterayush/LeetcodeSolve/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/enterayush/LeetcodeSolve/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/enterayush/LeetcodeSolve/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -366,6 +368,7 @@ Leetcode Solutions
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/enterayush/LeetcodeSolve/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/enterayush/LeetcodeSolve/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/enterayush/LeetcodeSolve/tree/master/3024-type-of-triangle) |
 | [3433-count-mentions-per-user](https://github.com/enterayush/LeetcodeSolve/tree/master/3433-count-mentions-per-user) |
@@ -556,6 +559,7 @@ Leetcode Solutions
 | [0930-binary-subarrays-with-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/enterayush/LeetcodeSolve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/enterayush/LeetcodeSolve/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2747-count-zero-request-servers](https://github.com/enterayush/LeetcodeSolve/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/enterayush/LeetcodeSolve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Ordered Set
 |  |
