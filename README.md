@@ -84,6 +84,7 @@ Leetcode Solutions
 | [1748-sum-of-unique-elements](https://github.com/enterayush/LeetcodeSolve/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/enterayush/LeetcodeSolve/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/enterayush/LeetcodeSolve/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/enterayush/LeetcodeSolve/tree/master/1882-process-tasks-using-servers) |
 | [1920-build-array-from-permutation](https://github.com/enterayush/LeetcodeSolve/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/enterayush/LeetcodeSolve/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/enterayush/LeetcodeSolve/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -545,6 +546,7 @@ Leetcode Solutions
 | ------- |
 | [1046-last-stone-weight](https://github.com/enterayush/LeetcodeSolve/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/enterayush/LeetcodeSolve/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1882-process-tasks-using-servers](https://github.com/enterayush/LeetcodeSolve/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/enterayush/LeetcodeSolve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Queue
 |  |
