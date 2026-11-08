@@ -74,6 +74,7 @@ Leetcode Solutions
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/enterayush/LeetcodeSolve/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/enterayush/LeetcodeSolve/tree/master/1046-last-stone-weight) |
 | [1266-minimum-time-visiting-all-points](https://github.com/enterayush/LeetcodeSolve/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/enterayush/LeetcodeSolve/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/enterayush/LeetcodeSolve/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/enterayush/LeetcodeSolve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -400,6 +401,7 @@ Leetcode Solutions
 | [0169-majority-element](https://github.com/enterayush/LeetcodeSolve/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/enterayush/LeetcodeSolve/tree/master/1267-count-servers-that-communicate) |
 | [1748-sum-of-unique-elements](https://github.com/enterayush/LeetcodeSolve/tree/master/1748-sum-of-unique-elements) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3583-count-special-triplets](https://github.com/enterayush/LeetcodeSolve/tree/master/3583-count-special-triplets) |
@@ -485,6 +487,7 @@ Leetcode Solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/enterayush/LeetcodeSolve/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/enterayush/LeetcodeSolve/tree/master/1267-count-servers-that-communicate) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Prefix Sum
 |  |
@@ -505,6 +508,7 @@ Leetcode Solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/enterayush/LeetcodeSolve/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0931-minimum-falling-path-sum) |
+| [1267-count-servers-that-communicate](https://github.com/enterayush/LeetcodeSolve/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/enterayush/LeetcodeSolve/tree/master/3665-twisted-mirror-path-count) |
 ## Bit Manipulation
 |  |
@@ -531,6 +535,7 @@ Leetcode Solutions
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/enterayush/LeetcodeSolve/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/enterayush/LeetcodeSolve/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/enterayush/LeetcodeSolve/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -640,6 +645,7 @@ Leetcode Solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/enterayush/LeetcodeSolve/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/enterayush/LeetcodeSolve/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
 | ------- |
