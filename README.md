@@ -113,6 +113,7 @@ Leetcode Solutions
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/enterayush/LeetcodeSolve/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/enterayush/LeetcodeSolve/tree/master/3665-twisted-mirror-path-count) |
 | [3668-restore-finishing-order](https://github.com/enterayush/LeetcodeSolve/tree/master/3668-restore-finishing-order) |
+| [3693-climbing-stairs-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/enterayush/LeetcodeSolve/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/enterayush/LeetcodeSolve/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/enterayush/LeetcodeSolve/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -461,6 +462,7 @@ Leetcode Solutions
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/enterayush/LeetcodeSolve/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3665-twisted-mirror-path-count](https://github.com/enterayush/LeetcodeSolve/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/3693-climbing-stairs-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/enterayush/LeetcodeSolve/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Interactive
 |  |
