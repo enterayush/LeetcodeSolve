@@ -310,6 +310,7 @@ Leetcode Solutions
 | [0560-subarray-sum-equals-k](https://github.com/enterayush/LeetcodeSolve/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/enterayush/LeetcodeSolve/tree/master/0575-distribute-candies) |
 | [0930-binary-subarrays-with-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1748-sum-of-unique-elements](https://github.com/enterayush/LeetcodeSolve/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/enterayush/LeetcodeSolve/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/enterayush/LeetcodeSolve/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -375,6 +376,7 @@ Leetcode Solutions
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/enterayush/LeetcodeSolve/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/enterayush/LeetcodeSolve/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/enterayush/LeetcodeSolve/tree/master/2747-count-zero-request-servers) |
@@ -484,6 +486,7 @@ Leetcode Solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/enterayush/LeetcodeSolve/tree/master/2236-root-equals-sum-of-children) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -496,6 +499,7 @@ Leetcode Solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/enterayush/LeetcodeSolve/tree/master/0547-number-of-provinces) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/enterayush/LeetcodeSolve/tree/master/1267-count-servers-that-communicate) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Prefix Sum
@@ -555,6 +559,7 @@ Leetcode Solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/enterayush/LeetcodeSolve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/enterayush/LeetcodeSolve/tree/master/2236-root-equals-sum-of-children) |
 ## Heap (Priority Queue)
 |  |
@@ -659,6 +664,7 @@ Leetcode Solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/enterayush/LeetcodeSolve/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/enterayush/LeetcodeSolve/tree/master/0547-number-of-provinces) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/enterayush/LeetcodeSolve/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
