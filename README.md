@@ -50,6 +50,7 @@ Leetcode Solutions
 | [0283-move-zeroes](https://github.com/enterayush/LeetcodeSolve/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0384-shuffle-an-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0384-shuffle-an-array) |
 | [0410-split-array-largest-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/enterayush/LeetcodeSolve/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/enterayush/LeetcodeSolve/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -178,6 +179,7 @@ Leetcode Solutions
 | [0292-nim-game](https://github.com/enterayush/LeetcodeSolve/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/enterayush/LeetcodeSolve/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/enterayush/LeetcodeSolve/tree/master/0342-power-of-four) |
+| [0384-shuffle-an-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0384-shuffle-an-array) |
 | [0412-fizz-buzz](https://github.com/enterayush/LeetcodeSolve/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/enterayush/LeetcodeSolve/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -746,4 +748,12 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/enterayush/LeetcodeSolve/tree/master/0187-repeated-dna-sequences) |
+## Design
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0384-shuffle-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
