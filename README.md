@@ -256,6 +256,7 @@ Leetcode Solutions
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/enterayush/LeetcodeSolve/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/enterayush/LeetcodeSolve/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/enterayush/LeetcodeSolve/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/enterayush/LeetcodeSolve/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3110-score-of-a-string](https://github.com/enterayush/LeetcodeSolve/tree/master/3110-score-of-a-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/enterayush/LeetcodeSolve/tree/master/3174-clear-digits) |
@@ -356,6 +357,7 @@ Leetcode Solutions
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/enterayush/LeetcodeSolve/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/enterayush/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/enterayush/LeetcodeSolve/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3884-first-matching-character-from-both-ends](https://github.com/enterayush/LeetcodeSolve/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
@@ -467,6 +469,7 @@ Leetcode Solutions
 | [1510-stone-game-iv](https://github.com/enterayush/LeetcodeSolve/tree/master/1510-stone-game-iv) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/enterayush/LeetcodeSolve/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/enterayush/LeetcodeSolve/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/enterayush/LeetcodeSolve/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/enterayush/LeetcodeSolve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/enterayush/LeetcodeSolve/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/enterayush/LeetcodeSolve/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
