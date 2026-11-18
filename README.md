@@ -77,6 +77,7 @@ Leetcode Solutions
 | [1266-minimum-time-visiting-all-points](https://github.com/enterayush/LeetcodeSolve/tree/master/1266-minimum-time-visiting-all-points) |
 | [1267-count-servers-that-communicate](https://github.com/enterayush/LeetcodeSolve/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/enterayush/LeetcodeSolve/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/enterayush/LeetcodeSolve/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/enterayush/LeetcodeSolve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/enterayush/LeetcodeSolve/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -145,6 +146,7 @@ Leetcode Solutions
 | [0540-single-element-in-a-sorted-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/enterayush/LeetcodeSolve/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/enterayush/LeetcodeSolve/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/enterayush/LeetcodeSolve/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/enterayush/LeetcodeSolve/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/enterayush/LeetcodeSolve/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -312,6 +314,7 @@ Leetcode Solutions
 | [0575-distribute-candies](https://github.com/enterayush/LeetcodeSolve/tree/master/0575-distribute-candies) |
 | [0930-binary-subarrays-with-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/enterayush/LeetcodeSolve/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/enterayush/LeetcodeSolve/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/enterayush/LeetcodeSolve/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/enterayush/LeetcodeSolve/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -354,6 +357,7 @@ Leetcode Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/enterayush/LeetcodeSolve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/enterayush/LeetcodeSolve/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/enterayush/LeetcodeSolve/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/enterayush/LeetcodeSolve/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/enterayush/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -379,6 +383,7 @@ Leetcode Solutions
 | [0561-array-partition](https://github.com/enterayush/LeetcodeSolve/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/enterayush/LeetcodeSolve/tree/master/0881-boats-to-save-people) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/enterayush/LeetcodeSolve/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/enterayush/LeetcodeSolve/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/enterayush/LeetcodeSolve/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/enterayush/LeetcodeSolve/tree/master/2747-count-zero-request-servers) |
