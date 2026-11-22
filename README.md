@@ -259,6 +259,7 @@ Leetcode Solutions
 | [1832-check-if-the-sentence-is-pangram](https://github.com/enterayush/LeetcodeSolve/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/enterayush/LeetcodeSolve/tree/master/1927-sum-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/enterayush/LeetcodeSolve/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/enterayush/LeetcodeSolve/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/enterayush/LeetcodeSolve/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/enterayush/LeetcodeSolve/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/enterayush/LeetcodeSolve/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
