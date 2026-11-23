@@ -78,6 +78,7 @@ Leetcode Solutions
 | [1267-count-servers-that-communicate](https://github.com/enterayush/LeetcodeSolve/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/enterayush/LeetcodeSolve/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/enterayush/LeetcodeSolve/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1352-product-of-the-last-k-numbers](https://github.com/enterayush/LeetcodeSolve/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/enterayush/LeetcodeSolve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/enterayush/LeetcodeSolve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/enterayush/LeetcodeSolve/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -191,6 +192,7 @@ Leetcode Solutions
 | [0486-predict-the-winner](https://github.com/enterayush/LeetcodeSolve/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/enterayush/LeetcodeSolve/tree/master/0509-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/enterayush/LeetcodeSolve/tree/master/1266-minimum-time-visiting-all-points) |
+| [1352-product-of-the-last-k-numbers](https://github.com/enterayush/LeetcodeSolve/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/enterayush/LeetcodeSolve/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/enterayush/LeetcodeSolve/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/enterayush/LeetcodeSolve/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -528,6 +530,7 @@ Leetcode Solutions
 | [0560-subarray-sum-equals-k](https://github.com/enterayush/LeetcodeSolve/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/enterayush/LeetcodeSolve/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/enterayush/LeetcodeSolve/tree/master/0930-binary-subarrays-with-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/enterayush/LeetcodeSolve/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/enterayush/LeetcodeSolve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
@@ -778,8 +781,13 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0384-shuffle-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/enterayush/LeetcodeSolve/tree/master/1352-product-of-the-last-k-numbers) |
 ## Randomized
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/enterayush/LeetcodeSolve/tree/master/0384-shuffle-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/enterayush/LeetcodeSolve/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
